@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /todo
+
+spring:
+  jpa:
+    defer-datasource-initialization: true
